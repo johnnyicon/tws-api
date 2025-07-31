@@ -1,0 +1,7 @@
+URL: https://www.interactivebrokers.com/campus/ibkr-api-page/twsapi-doc/#historical-whattoshow
+Section ID: historical-whattoshow
+Scraped on: 2025-07-31 13:57:58
+================================================================================
+
+
+--- historical-whattoshow ---

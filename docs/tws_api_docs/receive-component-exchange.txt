@@ -1,0 +1,7 @@
+URL: https://www.interactivebrokers.com/campus/ibkr-api-page/twsapi-doc/#receive-component-exchange
+Section ID: receive-component-exchange
+Scraped on: 2025-07-31 13:58:02
+================================================================================
+
+
+--- receive-component-exchange ---

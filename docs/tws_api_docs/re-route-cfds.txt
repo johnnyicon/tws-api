@@ -1,0 +1,7 @@
+URL: https://www.interactivebrokers.com/campus/ibkr-api-page/twsapi-doc/#re-route-cfds
+Section ID: re-route-cfds
+Scraped on: 2025-07-31 13:58:04
+================================================================================
+
+
+--- re-route-cfds ---

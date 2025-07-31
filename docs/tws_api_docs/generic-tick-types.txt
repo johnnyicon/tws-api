@@ -1,0 +1,7 @@
+URL: https://www.interactivebrokers.com/campus/ibkr-api-page/twsapi-doc/#generic-tick-types
+Section ID: generic-tick-types
+Scraped on: 2025-07-31 13:58:03
+================================================================================
+
+
+--- generic-tick-types ---

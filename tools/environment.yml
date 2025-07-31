@@ -1,0 +1,7 @@
+name: tws-api-tools
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - requests
+  - beautifulsoup4
