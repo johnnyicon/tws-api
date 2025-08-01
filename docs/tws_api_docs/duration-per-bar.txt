@@ -1,7 +1,0 @@
-URL: https://www.interactivebrokers.com/campus/ibkr-api-page/twsapi-doc/#duration-per-bar
-Section ID: duration-per-bar
-Scraped on: 2025-07-31 13:57:58
-================================================================================
-
-
---- duration-per-bar ---

@@ -1,7 +1,0 @@
-URL: https://www.interactivebrokers.com/campus/ibkr-api-page/twsapi-doc/#request-option-greeks
-Section ID: request-option-greeks
-Scraped on: 2025-07-31 13:58:03
-================================================================================
-
-
---- request-option-greeks ---

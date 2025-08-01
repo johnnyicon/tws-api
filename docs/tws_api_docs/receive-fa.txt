@@ -1,7 +1,0 @@
-URL: https://www.interactivebrokers.com/campus/ibkr-api-page/twsapi-doc/#receive-fa
-Section ID: receive-fa
-Scraped on: 2025-07-31 13:57:54
-================================================================================
-
-
---- receive-fa ---

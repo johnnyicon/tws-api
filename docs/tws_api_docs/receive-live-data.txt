@@ -1,7 +1,0 @@
-URL: https://www.interactivebrokers.com/campus/ibkr-api-page/twsapi-doc/#receive-live-data
-Section ID: receive-live-data
-Scraped on: 2025-07-31 13:58:04
-================================================================================
-
-
---- receive-live-data ---
