@@ -1,151 +1,54 @@
-# TWS API Documentation - Improved Structure
+# TWS API Documentation
 
-Documentation scraped from Interactive Brokers TWS API on 2025-08-01 00:35:12
+Scraped from: https://www.interactivebrokers.com/campus/ibkr-api-page/twsapi-doc/  
+Generated: 2025-08-01 09:13:29  
+Total sections: 28
 
-**Total Level 1 sections:** 28
-**Total subsections:** 328
-**Total words:** 89,184
-**Total code blocks:** 162
+## Section Index (in original order)
 
-## Level 1 Sections
+ 1. [Introduction](01_introduction.md)
+ 2. [Notes & Limitations](02_notes_limitations.md)
+ 3. [Download TWS or IB Gateway](03_download_tws_or_ib_gateway.md)
+ 4. [TWS Settings](04_tws_settings.md)
+ 5. [Download the TWS API](05_download_the_tws_api.md)
+ 6. [TWSAPI Basics Tutorial](06_twsapi_basics_tutorial.md)
+ 7. [Third Party API Platforms](07_third_party_api_platforms.md)
+ 8. [Unique Configurations](08_unique_configurations.md)
+ 9. [Troubleshooting & Support](09_troubleshooting_support.md)
+10. [Architecture](10_architecture.md)
+11. [Pacing Limitations](11_pacing_limitations.md)
+12. [Connectivity](12_connectivity.md)
+13. [Account & Portfolio Data](13_account_portfolio_data.md)
+14. [Bulletins](14_bulletins.md)
+15. [Contracts (Financial Instruments)](15_contracts_financial_instruments.md)
+16. [Event Trading](16_event_trading.md)
+17. [Error Handling](17_error_handling.md)
+18. [Financial Advisors](18_financial_advisors.md)
+19. [Market Data: Delayed](19_market_data_delayed.md)
+20. [Market Data: Historical](20_market_data_historical.md)
+21. [Market Data: Live](21_market_data_live.md)
+22. [Market Scanner](22_market_scanner.md)
+23. [News](23_news.md)
+24. [Next Valid ID](24_next_valid_id.md)
+25. [Order Management](25_order_management.md)
+26. [Orders](26_orders.md)
+27. [TWS UI Display Groups](27_tws_ui_display_groups.md)
+28. [Wall Street Horizon](28_wall_street_horizon.md)
 
-1. **Introduction** (`introduction.md`)
-   - Word count: 626
-   - Subsections: 1
-   - Code blocks: 0
 
-2. **Notes & Limitations** (`notes_limitations.md`)
-   - Word count: 923
-   - Subsections: 5
-   - Code blocks: 0
+## Summary Statistics
 
-3. **Download TWS or IB Gateway** (`download_tws_or_ib_gateway.md`)
-   - Word count: 249
-   - Subsections: 2
-   - Code blocks: 0
+- **Total sections**: 28
+- **Total words**: 123,160
+- **Total subsections**: 1031
+- **Total code blocks**: 162
 
-4. **TWS Settings** (`tws_settings.md`)
-   - Word count: 2,361
-   - Subsections: 12
-   - Code blocks: 0
+## Usage
 
-5. **Download the TWS API** (`download_the_tws_api.md`)
-   - Word count: 1,553
-   - Subsections: 4
-   - Code blocks: 0
+These files are generated from the Interactive Brokers TWS API documentation and are intended for use with LLM-based technical support systems.
 
-6. **TWSAPI Basics Tutorial** (`twsapi_basics_tutorial.md`)
-   - Word count: 184
-   - Subsections: 1
-   - Code blocks: 0
-
-7. **Third Party API Platforms** (`third_party_api_platforms.md`)
-   - Word count: 868
-   - Subsections: 3
-   - Code blocks: 0
-
-8. **Unique Configurations** (`unique_configurations.md`)
-   - Word count: 1,096
-   - Subsections: 10
-   - Code blocks: 0
-
-9. **Troubleshooting & Support** (`troubleshooting_support.md`)
-   - Word count: 3,930
-   - Subsections: 10
-   - Code blocks: 0
-
-10. **Architecture** (`architecture.md`)
-   - Word count: 1,262
-   - Subsections: 3
-   - Code blocks: 1
-
-11. **Pacing Limitations** (`pacing_limitations.md`)
-   - Word count: 724
-   - Subsections: 2
-   - Code blocks: 0
-
-12. **Connectivity** (`connectivity.md`)
-   - Word count: 4,065
-   - Subsections: 10
-   - Code blocks: 3
-
-13. **Account & Portfolio Data** (`account_portfolio_data.md`)
-   - Word count: 11,238
-   - Subsections: 39
-   - Code blocks: 42
-
-14. **Bulletins** (`bulletins.md`)
-   - Word count: 302
-   - Subsections: 4
-   - Code blocks: 3
-
-15. **Contracts (Financial Instruments)** (`contracts_financial_instruments.md`)
-   - Word count: 3,257
-   - Subsections: 13
-   - Code blocks: 8
-
-16. **Event Trading** (`event_trading.md`)
-   - Word count: 3,328
-   - Subsections: 10
-   - Code blocks: 0
-
-17. **Error Handling** (`error_handling.md`)
-   - Word count: 1,762
-   - Subsections: 8
-   - Code blocks: 1
-
-18. **Financial Advisors** (`financial_advisors.md`)
-   - Word count: 3,585
-   - Subsections: 16
-   - Code blocks: 5
-
-19. **Market Data: Delayed** (`market_data_delayed.md`)
-   - Word count: 725
-   - Subsections: 4
-   - Code blocks: 2
-
-20. **Market Data: Historical** (`market_data_historical.md`)
-   - Word count: 9,967
-   - Subsections: 47
-   - Code blocks: 15
-
-21. **Market Data: Live** (`market_data_live.md`)
-   - Word count: 15,212
-   - Subsections: 42
-   - Code blocks: 31
-
-22. **Market Scanner** (`market_scanner.md`)
-   - Word count: 1,268
-   - Subsections: 8
-   - Code blocks: 5
-
-23. **News** (`news.md`)
-   - Word count: 3,947
-   - Subsections: 14
-   - Code blocks: 12
-
-24. **Next Valid ID** (`next_valid_id.md`)
-   - Word count: 430
-   - Subsections: 4
-   - Code blocks: 2
-
-25. **Order Management** (`order_management.md`)
-   - Word count: 4,539
-   - Subsections: 19
-   - Code blocks: 13
-
-26. **Orders** (`orders.md`)
-   - Word count: 8,993
-   - Subsections: 17
-   - Code blocks: 7
-
-27. **TWS UI Display Groups** (`tws_ui_display_groups.md`)
-   - Word count: 1,095
-   - Subsections: 9
-   - Code blocks: 6
-
-28. **Wall Street Horizon** (`wall_street_horizon.md`)
-   - Word count: 1,695
-   - Subsections: 11
-   - Code blocks: 6
-
+Each file contains:
+- Original section content in markdown format
+- Metadata with navigation links
+- Word counts and section statistics
+- Python code examples where available
